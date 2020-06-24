@@ -1,9 +1,10 @@
 # Table of contents
 
-## Intro
-* [Installation](intro/installation.md)
-
-## Using bap from the cli
+## Using bap
 * [Introduction](cli/introduction.md)
 * [Disassembly](cli/disassembly.md)
+* [Taint Analysis](cli/taint.md)
 
+## Writing bap extensions
+
+## Writing bap plugins
