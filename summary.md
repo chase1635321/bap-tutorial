@@ -1,7 +1,7 @@
 # Table of contents
 
-## Introduction
-* [Installation](introduction/installation.md)
+## Intro
+* [Installation](intro/installation.md)
 
 ## Using bap from the cli
 * [Introduction](cli/introduction.md)
