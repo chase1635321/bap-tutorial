@@ -2,6 +2,7 @@
 
 ## Using bap
 * [Introduction](cli/introduction.md)
+* [Execution](cli/execution.md)
 * [Disassembly](cli/disassembly.md)
 * [Taint Analysis](cli/taint.md)
 
